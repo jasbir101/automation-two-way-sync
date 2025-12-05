@@ -74,7 +74,3 @@ Reverse mapping (ClickUp -> Airtable) is handled by task status names.
 ---
 ## AI Usage Notes
 Minimal AI assistance (ChatGPT) was used to help draft README and suggest small code snippets. All code was reviewed and manually tested.
-
----
-## Video
-Not included in the repo. Record a 5–10 minute demo showing the flows described above.
