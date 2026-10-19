@@ -1,1 +1,0 @@
-AI notes placeholder (minimal).
